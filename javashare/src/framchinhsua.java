@@ -9,6 +9,10 @@ import javax.swing.JFrame;
  *
  */
 public class framchinhsua extends JFrame {
+public void main(){
+	setSize(500,500);
+	setTitle("LamPro");
+}
 
 	/**
 	 * @param args
